@@ -19,7 +19,10 @@ import csv
 The teacher answer is put into .csv file as shown below. This is our first Input to code
 
 
+
 ![modern-answer](https://user-images.githubusercontent.com/34189979/81499372-c564b180-92e8-11ea-9b84-01068abf9abd.PNG)
+
+
 
 
 
@@ -28,7 +31,10 @@ The teacher answer is put into .csv file as shown below. This is our first Input
 The student answers is put into .csv file rowwise (each row represents new student answer) as shown below. This is our second Input to code
 
 
+
 ![student-answer](https://user-images.githubusercontent.com/34189979/81499409-1b395980-92e9-11ea-939c-5dfb514d1e03.PNG)
+
+
 
 
 
@@ -37,6 +43,8 @@ The student answers is put into .csv file rowwise (each row represents new stude
 
 
 ![final-ontology](https://user-images.githubusercontent.com/34189979/81499439-62bfe580-92e9-11ea-96d6-d1abae721599.PNG)
+
+
 
 
 
